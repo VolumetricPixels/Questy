@@ -1,3 +1,8 @@
+This repository is no longer in use. Questy's new home is at https://github.com/DziNeIT/Questy
+
+
+
+
 Questy
 ======
 
